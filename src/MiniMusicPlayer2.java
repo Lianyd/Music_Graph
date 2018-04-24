@@ -1,5 +1,5 @@
 //import javax.sound.midi.*;
-//
+//播放多个音节
 //public class MiniMusicPlayer2 implements ControllerEventListener {
 //
 //    public  static void main(String[] args){
